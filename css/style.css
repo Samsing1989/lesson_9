@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+[class*="__containe"]{
+	max-width: 900px;
+	margin: 0 auto;
+}
+img{
+	max-width: 100%;
+}
+.img {
+	margin-top: 30px;
+}
+div:not(:last-child) {
+	margin-bottom: 50px;
+}
